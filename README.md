@@ -2,6 +2,6 @@
 
 picture-perfect web page using html and css
 
-view website: https://pic-perf.netlify.app/
+# view website: https://pic-perf.netlify.app/
 
-# only for laptop devices
+only for laptop devices
